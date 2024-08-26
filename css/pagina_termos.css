@@ -1,0 +1,145 @@
+body{
+    background-color: #F2E4EA;
+    margin: auto;
+}
+
+nav{
+    background-color: #F2F2F2;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    height: 50px;
+    margin-bottom: 5%;
+}
+
+.nav_img_logo{
+    height: 100px;
+    margin-left: 10px;
+}
+
+.nav_img_usuario{
+    height: 30px;
+    margin-left: 100px;
+}
+
+nav a{
+    text-decoration: none;
+    font-family: "Poppins", sans-serif;
+    color: #5697E4;
+    font-weight: bold;
+    margin-left: 200px;
+}
+
+nav a:hover{
+    color: #495F9E;
+    transition: 0.2s;
+}
+
+.escolha_de_termos_ou_politica{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #495F9E;
+    border-radius: 50px;
+    width: fit-content;
+    margin: auto;
+}
+
+.escolha_de_termos_ou_politica a{
+    text-decoration: none;
+    font-family: "Poppins", sans-serif;
+    width: fit-content;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.escolha_de_termos_ou_politica_termos {
+    background-color: #495F9E;
+    padding: 15px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    color: #F2F2F2;
+    font-weight: bold;
+}
+
+.escolha_de_termos_ou_politica_politica{
+    padding: 15px;
+    color: #495F9E;
+    font-weight: bold;
+}
+
+.escolha_de_termos_ou_politica_politica:hover{
+    background-color: #495F9E;
+    color: #F2F2F2;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.documento_termos_e_condicoes{
+    background-color: #F2F2F2;
+    padding-left: 40px;
+    padding-bottom: 20px;
+    margin: 3%;
+    font-family: "Poppins", sans-serif;
+    color: #495F9E;
+}
+.documento_termos_e_condicoes h2{
+    padding-top: 20px;
+    padding-bottom: 50px;
+    font-weight: 40px;
+}
+
+.documento_termos_e_condicoes h3{
+    margin-top: 70px;
+    font-weight: 36px;
+}
+
+.documento_termos_e_condicoes p{
+    color: #000000;
+    width: 95%;
+    margin-left: 5px;
+    padding-top: 25px;
+    font-weight: 24px;
+}
+
+.lista_nao_ordenada_para_registro_de_data{
+    font-weight: bold;
+}
+footer{
+    background-color: #495F9E;
+    padding-bottom: 10px;
+}
+.rodape{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #F2F2F2;
+    font-family: "Poppins", sans-serif;
+    padding-top: 50px;
+}
+
+.rodape img{
+    height: 100px;
+    padding-top: 20px;
+}
+
+.rodape li{
+    list-style-type: none;
+}
+
+.rodape a{
+    text-decoration: none;
+    color: #F2F2F2;
+}
+
+.copyright {
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 10px;
+    color: #F2F2F2;
+    font-weight: bold;
+    background-color: #EEC1D4;
+    height: 20px;
+}

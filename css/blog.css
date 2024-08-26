@@ -1,0 +1,199 @@
+body{
+    margin: auto;
+    background-color: #F2E4EA;
+    font-family: "Poppins", sans-serif;
+}
+
+/* NAVBAR */
+
+nav{
+    background-color: #F2F2F2;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    height: 50px;
+    justify-content: space-around;
+    margin-bottom: 5%;
+}
+
+.nav_img_logo{
+    height: 100px;
+}
+
+.nav_img_usuario{
+    height: 30px;
+}
+
+nav a{
+    text-decoration: none;
+    font-family: "Poppins", sans-serif;
+    color: #5697E4;
+    font-weight: bold;
+}
+
+nav a:hover{
+    color: #495F9E;
+    transition: 0.2s;
+}
+
+/* <<<<<< >>>>>>*/
+
+.nomeBlog{
+    margin-bottom: 7%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #5697E4;
+    color: white;
+    padding: 0.01%;
+    font-size: 150%;
+}
+
+.box{
+    display: flex;
+    flex-direction: row;
+    text-align:justify;
+    border: 5px solid white;
+    box-shadow: 0 0 3px rgba(0,0,0.5);
+    margin: 1%;
+}
+
+.saudebirra{
+    display: flex;
+    flex-direction: row;
+    text-align:justify;
+    margin: 1%;
+    justify-content: space-between;
+}
+
+.ImagemPrototipo{
+    justify-content: center;
+    margin: auto;
+    width: 30%;
+    padding: 2%;
+    display: flex;
+    margin-top: 0%;
+}
+
+.divMenor{
+   background-color: #EFA9BA;
+   display: flex;
+   flex-direction: column; 
+   border-radius: 2%;
+   padding: 1%;
+   margin: 2%;
+}
+
+b{
+    font-size: 200%;
+    color:white;
+}
+p{
+    font-size: 115%;
+    margin-right: 10%;
+}
+
+.subtitulo{
+    font-size: 130%;
+    color:white;
+}
+ 
+.saude{
+
+    margin-left: -2%;
+    width: 80%;
+    padding: 3%;
+}
+
+.boxSaude{
+    display: flex;
+    flex-direction: column;
+    text-align:justify;
+    padding: 2%;
+    width: 50%;
+    margin: 1%;
+    border: 5px solid white;
+    box-shadow: 0 0 3px rgba(0,0,0.5);
+    justify-content: center;
+    align-items: center;
+    margin-left: 0.7%;
+}
+
+.divsaude{
+    background-color: #EFA9BA;
+    display: flex;
+    flex-direction: column; 
+    border-radius: 2%;
+    padding: 1%;
+    width: 80%;  
+}
+
+.birra{ 
+    margin-left: -2%;
+    width: 80%;
+    padding: 3%;
+}
+
+.boxBirra{
+    display: flex;
+    flex-direction: column;
+    text-align:justify;
+    padding: 2%;
+    width: 50%;
+    margin: 1%;
+    border: 5px solid white;
+    box-shadow: 0 0 3px rgba(0,0,0.5);
+    justify-content: center;
+    align-items: center;
+    margin-right: 0.7%;
+}
+
+.divbirra{
+    background-color: #EFA9BA;
+    display: flex;
+    flex-direction: column; 
+    border-radius: 2%;
+    padding: 1%;
+    width: 80%; 
+}
+
+/*FOOTER*/
+
+footer{
+    background-color: #495F9E;
+    padding-bottom: 10px;
+}
+.rodape{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #F2F2F2;
+    font-family: "Poppins", sans-serif;
+    padding-top: 50px;
+}
+
+.rodape img{
+    height: 100px;
+    padding-top: 20px;
+}
+
+.rodape li{
+    list-style-type: none;
+}
+
+.rodape a{
+    text-decoration: none;
+    color: #F2F2F2;
+}
+
+.copyright {
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 10px;
+    color: #F2F2F2;
+    font-weight: bold;
+    background-color: #EEC1D4;
+    height: 20px;
+}

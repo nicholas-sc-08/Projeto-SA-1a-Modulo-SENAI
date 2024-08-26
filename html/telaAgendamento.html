@@ -1,0 +1,78 @@
+<html lang="pt-br">
+<head>
+
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link href="../css/agenda.css" rel="stylesheet">
+  <link rel="shortcut icon" href="../fotos/LogoNavegador.ico" type="image/x-icon">
+  <title>Calendario</title>
+
+</head>
+<body>
+
+      <!--NAVBAR-->
+      <nav>
+        <img src="../fotos/logoHorizontal.png" alt="Imagem logo.png" class="nav_img_logo">
+        <a href="">Home</a>
+        <a href="pagina_sobre_nos_.html">Sobre Nós</a>
+        <a href="">Blog</a>
+        <a href=""><img src="../fotos/iconePerfil.png" alt="Imagem usuario.png" class="nav_img_usuario"></a>
+    </nav>
+
+
+  <div id="container">
+      <div id="header">
+        <div id="monthDisplay"></div>
+
+        <div>
+          <button id="backButton">Voltar</button>
+          <button id="nextButton">Próximo</button>
+        </div>
+          
+      </div>
+
+      <div id="weekdays">
+        <div>Domingo</div>
+        <div>Segunda-feira</div>
+        <div>Terça-feira</div>
+        <div>Quarta-feira</div>
+        <div>Quinta-feira</div>
+        <div>Sexta-feira</div>
+        <div>Sábado</div>
+      </div>
+
+
+      <!-- div dinamic -->
+      <div id="calendar" ></div>
+
+   
+  </div>
+
+  <div id="newEventModal">
+    <h2>Agendar serviço</h2>
+
+    <input id="eventTitleInput" placeholder="Agendar"/>
+
+    <button id="saveButton"> Salvar</button>
+    <button id="cancelButton">Cancelar</button>
+  </div>
+
+  <div id="deleteEventModal">
+    <h2>Evento</h2>
+
+    <div id="eventText"></div><br>
+
+
+    <button id="deleteButton">Deletar</button>
+    <button id="closeButton">Fechar</button>
+  </div>
+
+  <div id="modalBackDrop"></div>
+
+
+  <script src="../js/agendaa.js"></script>
+  <script src="../js/agendaDark.js"></script>
+  
+</body>
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/cadastroPais.css">
+    <title>Document</title>
+</head>
+<body>
+
+    <div class="container">
+        <div class="logo">
+            <img src="LogoMaior.png" alt="Logo">
+        </div>
+        <div class="form-container">
+    
+    
+                <div class="Input-Principais">
+    
+                    <h2>Cadastro de responsáveis</h2><br>
+    
+                    <label for="">Nome Completo:</label><br>
+                    <input type="text" placeholder="Nome" class="input-Principais-text" id="inputNome" required><br>
+                    <label for="">Idade</label><br>
+                    <input type="number" class="input-Principais-text" id="idadeInput" required><br><br>
+                    <label for="email">Email:</label><br>
+                    <input type="email" name="email" class="input-Principais-text" id="emailInput" required><br>
+    
+                    <label for="password">Senha:</label><br>
+                    <input type="password" class="input-Principais-text" id="senhaInput" required><br><br>
+                    <label for="password">Confirmar senha:</label><br>
+                    <input type="password" class="input-Principais-text" id="confirmarSenhaInput" required><br><br>
+
+                    <div class="checkbox">
+                        <input type="checkbox" id="termo" class="checkbox-ajustes" required><label for="">Aceitar Termos de Uso</label> <br><br>
+                    </div>
+                    <button class="enter" onclick="cadastraPais()">Confirmar</button><br><br>
+                    <a href="../html/telaLogin.html" class="possuiConta">Já possui uma conta?</a>
+    
+                    <label id="mensagem"></label>
+    
+        </div>
+    </div>
+    <script src="../js/script.js"></script>
+</body>
+</html>

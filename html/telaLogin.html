@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/telaLogin.css">
+    <title>Document</title>
+</head>
+<body>
+
+    <div class="container">
+        <div class="logo">
+            <img src="../fotos/LogoMaior.png" alt="Logo">
+        </div>
+        <div class="form-container">
+
+            
+                <h2>Login</h2>
+    
+                <label for="">Nome Completo:</label><br>
+                <input type="text" placeholder="Nome" class="inputNome" required><br><br>
+                <label for="email">Email:</label><br>
+                <input type="email" name="email" class="emailInput" id="emailInput" required><br><br>
+                <label for="password">Senha:</label><br>
+                <input type="password" class="senhaInput" id="senhaInput" required><br><br>
+                <button class="enter" type="submit" onclick="logaUsuario(), logaAdmin()">Confirmar </button><br><br>
+                <a href="cadastroBabá.html" class="Semcadastro?">Não possui Cadastro?</a>
+    
+                <label id="mensagem"></label>
+    
+            
+        </div>
+    </div>
+  <script src="../js/script.js"></script>
+</body>
+</html>

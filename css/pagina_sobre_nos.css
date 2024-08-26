@@ -1,0 +1,209 @@
+body{
+    background-color: #F2E4EA;
+    font-family: "Poppins", sans-serif;
+    margin: auto;
+}
+
+nav{
+    background-color: #F2F2F2;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    height: 50px;
+    justify-content: space-around;
+    margin-bottom: 5%;
+}
+
+.nav_img_logo{
+    height: 100px;
+}
+
+.nav_img_usuario{
+    height: 30px;
+}
+
+nav a{
+    text-decoration: none;
+    font-family: "Poppins", sans-serif;
+    color: #5697E4;
+    font-weight: bold;
+}
+
+nav a:hover{
+    color: #495F9E;
+    transition: 0.2s;
+}
+
+.historia{
+    width: 90%;
+    height: 29%;
+    background-color: #5697E4;
+    font-family: "Poppins", sans-serif;
+    color: #F2F2F2;
+    padding: 20px;
+    margin: auto;
+    margin-bottom: 80px;
+    border-radius: 40px;
+    
+}
+
+.historia h2{
+    padding-left: 5%;
+    font-size: 36px;
+}
+
+.espacamento{
+    display: flex;
+    font-size: 20px;
+}
+
+.espacamento img{
+    width: 500px;
+    height: 510px;    
+}
+
+.paragrafos{
+    margin-left: 5%;
+    width: 32.5%;
+    margin-right: 24%;
+}
+
+.objetivos{
+    background-color: #F2F2F2;
+}
+
+.objetivos h2{
+    padding-left: 5%;
+    padding-top: 42px;
+    font-size: 36px;
+    color: #495F9E;
+}
+
+.objetivos img {
+    width: 40px;
+    height: 40px;
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 8%;
+    margin-top: 8%;
+    margin-bottom: 3%;
+}
+
+.card_um{
+    border: #495F9E solid 2px;
+    border-radius: 40px;
+    color: #495F9E;
+    width: 11%;
+    padding: 1%;
+    padding-bottom: 2%;
+    margin-right: 4%;
+}
+
+.card_dois{
+    border: #EEC1D4 solid 2px;
+    border-radius: 40px;
+    color: #EEC1D4;
+    width: 11%;
+    padding: 1%;
+    padding-bottom: 2%;
+    margin-right: 4%;
+}
+
+.card_tres{
+    border: #495F9E solid 2px;
+    border-radius: 40px;
+    color: #495F9E;
+    width: 11%;
+    padding: 1%;
+    padding-bottom: 2%;
+    margin-right: 4%;
+}
+
+.fundadores h2{
+    padding-left: 5%;
+    padding-top: 42px;
+    font-size: 36px;
+    color: #495F9E;
+}
+
+.cards_de_fundadores{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    font-size: 16px;
+}
+
+.cards_de_fundadores h3{
+    font-size: 20px;
+}
+
+.cards_de_fundadores img{
+    width: 200px;
+    height: 200px;
+}
+
+.card_fundador_um{
+    width: 200px;
+}
+
+.card_fundador_dois{
+    width: 200px;
+}
+
+.card_fundador_tres{
+    width: 200px;
+}
+
+.card_fundador_quatro{
+    width: 200px;
+}
+
+.card_fundador_cinco{
+    width: 200px;
+}
+
+footer{
+    background-color: #495F9E;
+    padding-bottom: 10px;
+}
+.rodape{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #F2F2F2;
+    font-family: "Poppins", sans-serif;
+    padding-top: 50px;
+}
+
+.rodape img{
+    height: 100px;
+    padding-top: 20px;
+}
+
+.rodape li{
+    list-style-type: none;
+}
+
+.rodape a{
+    text-decoration: none;
+    color: #F2F2F2;
+}
+
+.copyright {
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 10px;
+    color: #F2F2F2;
+    font-weight: bold;
+    background-color: #EEC1D4;
+    height: 20px;
+}

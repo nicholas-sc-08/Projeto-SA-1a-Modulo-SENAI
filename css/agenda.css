@@ -1,0 +1,192 @@
+body{
+  background-color:#f2e4ea ;
+}
+
+
+/* NAVBAR */
+nav{
+  background-color: #F2F2F2;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+}
+
+.nav_img_logo{
+  height: 100px;
+}
+
+.nav_img_usuario{
+  height: 30px;
+}
+
+nav a{
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+  color: #5697E4;
+  font-weight: bold;
+}
+
+nav a:hover{
+  color: #495F9E;
+  transition: 0.2s;
+}
+
+
+
+
+
+
+
+html{
+
+    --header-color: #495F9E;
+  
+    --header-button:#92a1d1;
+  
+    --color-weekdays: #495F9E;
+    
+    --box-shadow: #CBD4C2;
+  
+    --hover:  #EEC1D4;
+  
+    --current-day:#e8f4fa;
+  
+    --event-color: #5697E4;
+  
+    --modal-event: #e8f4fa;
+  
+  
+   --color-day:white;
+    
+  }
+  
+
+  
+  button {
+    width: 75px;
+    cursor: pointer;
+    box-shadow: 0px 0px 2px gray;
+    border: none;
+    outline: none;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    font-family: "poppins", sans-serif;
+  }
+  
+  #header {
+    font-family: "Poppins", sans-serif;
+    padding: 10px;
+    color: var(--header-color) ;
+    font-size: 26px;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: space-between;
+  }
+  #header button {
+    background-color: #EEC1D4;
+    font-family: "poppins", sans-serif;
+  }
+  #container {
+    font-family: "Poppins", sans-serif;
+    justify-content: center;
+    margin: auto;
+    margin-top: 10%;
+    width: 780px;
+  }
+  #weekdays {
+    
+    width: 100%;
+    display: flex;
+    color: var(--color-weekdays) ;
+  }
+  #weekdays div {
+    width: 100px;
+    padding: 10px;
+  }
+  #calendar {
+    font-family: "poppins", sans-serif;
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .day {
+    font-family: "poppins", sans-serif;
+    width: 100px;
+    padding: 10px;
+    height: 100px;
+    cursor: pointer;
+    box-sizing: border-box;
+    background-color: var(--color-day);
+    margin: 5px;
+    box-shadow: 0px 0px 3px var(--box-shadow);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 15%;
+  }
+  .day:hover {
+    background-color: var(--hover);
+  }
+  
+  .day + #currentDay {
+    background-color:var(--current-day);
+  }
+  .event {
+    font-family: "poppins", sans-serif;
+    font-size: 10px;
+    padding: 3px;
+    background-color:#495F9E;
+    color: white;
+    border-radius: 5px;
+    max-height: 55px;
+    overflow: hidden;
+  }
+  .padding {
+    cursor: default !important;
+    background-color: var(--body-color) !important;
+    box-shadow: none !important;
+  }
+  #newEventModal, #deleteEventModal {
+    font-family: "poppins", sans-serif;
+    display: none;
+    z-index: 20;
+    padding: 25px;
+    background-color: var(--modal-event);
+    box-shadow: 0px 0px 3px black;
+    border-radius: 5px;
+    width: 350px;
+    top: 100px;
+    left: calc(50% - 175px);
+    position: absolute;
+    font-family: sans-serif;
+  }
+  #eventTitleInput {
+    font-family: "poppins", sans-serif;
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 25px;
+    border-radius: 3px;
+    outline: none;
+    border: none;
+    box-shadow: 0px 0px 3px gray;
+  }
+  #eventTitleInput.error {
+    font-family: "poppins", sans-serif;
+    border: 2px solid red;
+  }
+  #cancelButton, #deleteButton {
+    font-family: "poppins", sans-serif;
+    background-color: var(--header-color);
+  }
+  #saveButton, #closeButton {
+    font-family: "poppins", sans-serif;
+    background-color: var(--header-button);
+  }
+  #eventText {
+    font-family: "poppins", sans-serif;
+    font-size: 14px;
+  }

@@ -1,0 +1,68 @@
+body{
+    background-color:  #F2E4EA;
+}
+
+nav{
+    background-color: #F2F2F2;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    height: 50px;
+    justify-content: space-around;
+    margin-bottom: 5%;
+}
+
+.nav_img_logo{
+    height: 100px;
+}
+
+.nav_img_usuario{
+    height: 30px;
+}
+
+nav a{
+    text-decoration: none;
+    font-family: "Poppins", sans-serif;
+    color: #5697E4;
+    font-weight: bold;
+}
+
+nav a:hover{
+    color: #495F9E;
+    transition: 0.2s;
+}
+
+.calendario{
+    max-width: 760px;
+    margin: 10 px auto;
+    background-color: #eec1d4;
+    padding: 20px;
+    display: flex;
+    border-radius: 8px;
+    flex-wrap: wrap;
+}
+
+.diasDaSemana{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    padding: 10px 0;
+    border-bottom: 1px solid;
+}
+
+.diasNumero{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.diasDaSemana span{
+ display: inline-block;
+ width: 14.2%;
+}
+
+.diasNumero span{
+ display: inline-block;
+ width: 14.2%;
+ margin: 8px 0;
+}

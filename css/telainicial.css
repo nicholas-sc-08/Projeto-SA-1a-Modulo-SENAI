@@ -1,0 +1,329 @@
+
+/* NAVBAR */
+
+body{
+    margin: auto;
+}
+nav{
+    background-color: #F2F2F2;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    height: 50px;
+    justify-content: space-around;
+}
+
+.nav_img_logo{
+    height: 100px;
+}
+
+.nav_img_usuario{
+    height: 30px;
+}
+
+nav a{
+    text-decoration: none;
+    font-family: "Poppins", sans-serif;
+    color: #5697E4;
+    font-weight: bold;
+}
+
+nav a:hover{
+    color: #495F9E;
+    transition: 0.2s;
+}
+body{
+    background-color: #F2E4EA;
+}
+
+
+
+
+
+
+
+/*CARROSSEL*/
+.carrossel_ajuste{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 0;
+    
+}
+
+.carrossel{
+	box-shadow: 2px 2px 4px black;
+	overflow: hidden;
+	height: 900px;
+	width: 2090px;
+}
+
+.container{
+	box-sizing: border-box;
+	display: flex;
+	transition: transform 0.5s ease-in-out;
+	transform: translateX(0);
+}
+.container img{
+	align-items: center;
+	object-fit: cover;
+	height:900px;
+	width: 2090px;
+    
+}
+
+
+
+
+
+
+/*DESTAQUES*/
+
+.Destaques_Conjunto{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 3%;
+    padding-top: 5%;
+    text-align: center;
+    margin-bottom: 10%;
+
+}
+
+span {
+
+    margin-bottom: 10px;
+    width: 100%;
+    margin: auto;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+}
+
+h2 {
+
+    margin-left: 2%;
+    font-family: "Poppins", sans-serif;
+}
+
+.Seta{
+
+    margin-left: 0.5%;
+    align-items: center;
+}
+
+.destaque{
+    background-color: #F2F2F2;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    padding: 3%;
+    display: block;
+    font-family: "Poppins", sans-serif;
+    border-radius: 10%;
+}
+
+.personalizacaoDestaques{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+
+
+
+
+
+/* CADASTRO */
+
+button{
+    display: flex;
+    background-color: #eec1d4;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 30px;
+    font-family: "Poppins", sans-serif;
+    font-size: large;
+    padding: 4%;
+    width: 70%;
+    align-items: center;
+}
+
+button:hover{
+
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    transform: scale(1.1);
+}
+
+.LoginCadastro{
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    width: fit-content;
+}
+
+a {
+
+    text-decoration: none;
+}
+
+.cadastro{
+
+    background-color: #eec1d4;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    width: 12%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    padding: 3%;
+    border-radius: 20px;
+    border: 0.5px solid rgb(73, 69, 69);
+
+}
+
+
+.divPerfil{
+        background-color: #EEC1D4;
+        font-family: "Poppins", sans-serif;
+        border-radius: 20px;
+        border: 0.5px solid #000000;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+        width: fit-content;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        margin-top: 10%;
+        text-align: center;
+        padding: 2%;
+        flex-direction: column;
+    }
+    
+    .titulo{
+        font-size: 20px;
+        margin-top: -5%;
+    }
+    
+    .containerDois{
+        display: flex;
+        flex-direction: row;
+        gap: 7%;
+        margin-top: 5%;
+    }
+    
+    .cuidador{
+        background-color: #F2E4EA;
+        border: 0.5px solid #000000;
+        color: #000000;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 20px;
+        padding: 2%;
+        width: 180px;
+        height: 170px;
+        text-decoration: none;
+    }
+    
+    .cuidador img{
+        width: 90%;
+        height: 65%;
+    }
+
+    .cuidador:hover {
+
+        background-color: #EEC1D4;
+        transition: 1s;
+    }
+    
+    .responsável{
+        background-color: #5697E4;
+        border: 0.5px solid #000000;
+        color: black;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 20px;
+        padding: 2%;
+        width: 180px;
+        height: 170px;
+        text-decoration: none;
+    }
+    
+    .responsável img{
+        width: 90%;
+        height: 65%;
+    }
+
+    .responsável:hover {
+
+        background-color: #EEC1D4;
+        transition: 1s;
+    }
+    
+    .saida{
+        text-decoration: none;
+        color: black;
+        font-size: 160%;
+        gap: 150%;
+    }
+    
+    .sair{
+        display: flex;
+        width: 150px;
+        justify-content: flex-end;
+        margin-top: -4%;
+        margin-left: 220px;
+    }
+    
+    .containertres{
+        display: flex;
+        flex-direction: column;
+    }
+
+
+/* Footer */
+.rodape{
+    background-color: #495F9E;
+    color: white;
+    height: auto;
+    width: 100%;
+    font-size: 14px;
+    font-family: helvetica;
+    position: relative;
+    bottom: 0;
+    margin-top: 10%;
+}
+.rodape a{
+    text-decoration: none;
+    color: white;
+
+}
+.rodape p{
+    margin-bottom: 5px;
+}
+.rodape-div{
+    display: flex;
+    flex-wrap: wrap;
+    width:100%;
+    margin: auto;
+    align-items: stretch;
+    padding: 60px 10px 40px 10px;
+}
+.rodape-div-1, .rodape-div-2, .rodape-div-3, .rodape-div-4{
+    display: flex;
+    width: calc(100% / 4 - 20px);
+    padding: 10px;
+}
+.rodape span{
+    font-size: 20px;
+    color: white;
+}
+.rodape-direitos{
+    width: calc(100% - 20px);
+    background-color:#eec1d4;
+    padding: 10px;
+    margin: 0px;
+    text-align: center;
+}
+.logoFooter{
+    height: 100px;
+    margin-left: 10px;
+}

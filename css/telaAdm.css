@@ -1,0 +1,208 @@
+body{
+    background-color:  #F2E4EA;
+}
+
+nav{
+    background-color: #F2F2F2;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    height: 50px;
+    justify-content: space-around;
+    margin-bottom: 5%;
+}
+
+.nav_img_logo{
+    height: 100px;
+}
+
+.nav_img_usuario{
+    height: 30px;
+}
+
+nav a{
+    text-decoration: none;
+    font-family: "Poppins", sans-serif;
+    color: #5697E4;
+    font-weight: bold;
+}
+
+nav a:hover{
+    color: #495F9E;
+    transition: 0.2s;
+}
+
+
+
+/*PERFIS BABAS*/
+
+body {
+    
+    margin: 0;
+    padding: 0;
+    background-color: #f2e4ea;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 1%;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: "Poppins", sans-serif;
+    margin-left: -80px;
+    color: #495F9E;
+}
+
+.perfis {
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    height: 280px;
+}
+
+.divPerfil {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 200px;
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.divPerfil:hover {
+
+    background-color: #abbcd1;
+}
+
+.divPerfil img {
+    width: 25%;
+    height: 20%;
+    border-radius: 50%;
+    margin-left: 35%;
+    border: solid 1px black;
+}
+
+.divPerfil h3,
+.detalhesPerfil h3 {
+    font-size: 15px;
+    margin: 10px 0;
+    color: #495F9E;
+    font-family: "Poppins", sans-serif;
+}
+
+.divPerfil h4,
+.detalhesPerfil h4 {
+    font-size: 15px;
+    margin: 10px 0;
+    color: #EFA9BA;
+    font-family: "Poppins", sans-serif;
+}
+
+.divPerfil h2,
+.detalhesPerfil h2 {
+
+    color: #495F9E;
+    font-family: "Poppins", sans-serif;
+}
+
+.divPerfil a {
+
+    text-decoration: none;
+}
+
+.detalhesPerfil p {
+
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    color: #495F9E;
+}
+
+.detalhesPerfil {
+
+    display: block;
+    margin-top: 50px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: fit-content;
+    height: fit-content;
+}
+
+.detalhesPerfil label {
+
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    color: #495F9E;
+}
+
+.detalhesPerfil input {
+
+    border-radius: 6px;
+    border: solid 1px black;
+}
+
+.detalhesPerfil input:hover {
+
+    background-color: #ffe6f0;
+}
+
+.detalhesPerfil button {
+
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    background-color: #EEC1D4;
+    color: #495F9E;
+    border-radius: 6px;
+    padding: 2%;
+    border: solid 1px #495F9E;
+}
+
+/*footer*/
+
+
+footer{
+    margin-top: 10%;
+    background-color: #495F9E;
+    padding-bottom: 10px;
+}
+.rodape{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #F2F2F2;
+    font-family: "Poppins", sans-serif;
+    padding-top: 50px;
+}
+
+.rodape img{
+    height: 100px;
+    padding-top: 20px;
+}
+
+.rodape li{
+    list-style-type: none;
+}
+
+.rodape a{
+    text-decoration: none;
+    color: #F2F2F2;
+}
+
+.copyright {
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 10px;
+    color: #F2F2F2;
+    font-weight: bold;
+    background-color: #EEC1D4;
+    height: 20px;
+}
+
