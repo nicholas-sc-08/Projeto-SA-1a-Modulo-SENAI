@@ -1,5 +1,3 @@
-# Projeto-SA-1a-Modulo-SENAI
-
 ## 🔊 Introdução
 
 Seja muito bem-vindo(a) ao projeto de Stuação de Aprendizagem (SA) do SENAI. Este projeto foi em grupo de 4-5 pessoas, sendo distribuido em partes o que cada um deve fazer. A minha parte foi mais JS e um pouco de HTML & CSS, sendo editar perfil, cuidadores/responsáveis, Política de Privacidade & Termos e Condições.
