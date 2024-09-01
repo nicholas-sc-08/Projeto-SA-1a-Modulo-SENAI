@@ -48,7 +48,7 @@ Aqui estarão algumas páginas do site Baby Land, mostrando como são visualment
 
 ### 🏡 Página Inicial (Home):
 
-<img src="https://github.com/nicholas-sc-08/Projeto-SA-1a-Modulo-SENAI/blob/main/Imagens%20do%20README/home_baby_land.png" alt="Tela Inicial (Home) Baby Land" width="500px" height="400px"/>
+<img src="https://github.com/nicholas-sc-08/Projeto-SA-1a-Modulo-SENAI/blob/main/Imagens%20do%20README/home_baby_land.png" alt="Tela Inicial (Home) Baby Land" width="1000px" height="900px"/>
 
 ### 👤 Página de Login:
 
