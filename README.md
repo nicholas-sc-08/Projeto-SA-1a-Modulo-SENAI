@@ -11,11 +11,14 @@ No meu repositório, você fará exatamente como a imagem abaixo explica, então
 
 <img src="https://github.com/nicholas-sc-08/Projeto-SA-1a-Modulo-SENAI/blob/main/Imagens%20do%20README/git_clone_img.png" alt="GitHub Clone" width="500px" height="400px">
 
-Após você copiar o link que esta em https, você ira no prompt de commando, na qual esta disponível para uso em todos os computadores. Enntão feito isso você deve escolher a pasta na qual você quer que estes arquivos irá se alocar, para isto basta você digitar o seguinte commando:
+Após você copiar o link em https, você deve abrir o prompt de commando, na qual esta disponível para uso em todos os computadores. Feito isso, você deve escolher a pasta na qual você quer que estes arquivos irá se alocar, para isto basta você digitar o seguinte commando:
 
 ```git
   cd "caminho_da_pasta"
 ```
+
+O "caminho_da_pasta" é para você substitui-lo com o caminho da sua pasta no explorador de arquivos.
+
 Então a pasta que você selecionou estara selecionada no prompt de commando.
 
 Feito isso você deve exercer o seguinta commando:
@@ -23,8 +26,6 @@ Feito isso você deve exercer o seguinta commando:
 ```git
   git clone "https_que_você_copiou_no_meu_github"
 ```
-
-
 
 ## 📚 Como abrir o projeto?
 
