@@ -52,8 +52,6 @@ Aqui estarão algumas páginas do site Baby Land, mostrando como são visualment
 
 <img src="https://github.com/user-attachments/assets/dc28bdb7-0b05-449e-9328-fab3dc9bd626"/>
 
-##
-
 ### 👤 Página de Login:
 
 <img src="https://github.com/user-attachments/assets/7c80ae85-3f62-4721-99fb-d9b1c95bfae0"/>
@@ -61,8 +59,6 @@ Aqui estarão algumas páginas do site Baby Land, mostrando como são visualment
 ### 👩‍🦰 Página de Edição de Perfil (Cuidador(a)):
 
 <img src="https://github.com/user-attachments/assets/4f06195a-c4b0-49f8-87d8-8d2be5a7b2a9"/>
-
-##
 
 ### 📆 Página de Agendamento
 <img src="https://private-user-images.githubusercontent.com/170129975/363397024-ec4ad106-eeca-41e2-bd26-eb5e1dd4ba29.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUyMjE0ODUsIm5iZiI6MTcyNTIyMTE4NSwicGF0aCI6Ii8xNzAxMjk5NzUvMzYzMzk3MDI0LWVjNGFkMTA2LWVlY2EtNDFlMi1iZDI2LWViNWUxZGQ0YmEyOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkwMVQyMDA2MjVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03ZjBjMmI4ZWRjYjQ4OGRhMTQ4MWJiNTc1NmM4MThkYmZlYzAwMzE2ZTRlMTIyYWRmZWJmNGU4NGE1YzI1YzJkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.DLcu_NYl2hXY2yezMJ_boAtKzf022_YQN8sB3KNf4XE"/>
