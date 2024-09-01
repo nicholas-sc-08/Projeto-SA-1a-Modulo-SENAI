@@ -61,8 +61,6 @@ Entre no Visual Studio Code, então baixe a extensão <img src="https://pic.vsix
 
 ##
 
+### 📆 Página de Agendamento
+
 <img src="https://github.com/user-attachments/assets/4f06195a-c4b0-49f8-87d8-8d2be5a7b2a9"/>
-
-##
-
-<img src="https://github.com/user-attachments/assets/ec4ad106-eeca-41e2-bd26-eb5e1dd4ba29"/>
