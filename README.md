@@ -26,6 +26,8 @@ Feito isso você deve exercer o seguinta commando:
   git clone "https_que_você_copiou_no_meu_github"
 ```
 
+
+
 ## 📚 Como abrir o projeto?
 
 ### Método 1:
