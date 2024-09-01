@@ -46,6 +46,8 @@ Entre no Visual Studio Code, então baixe a extensão <img src="https://pic.vsix
 
 ## 📖 Algumas páginas do WEB Site Baby Land
 
+Aqui estarão algumas páginas do site Baby Land, mostrando como são visualmente, sendo elas, Home, Login, Editar Perfil Cuidador(a), Página de Agendamento. Aproveite! 😉 
+
 ### 🏡 Página Inicial (Home):
 
 <img src="https://github.com/user-attachments/assets/dc28bdb7-0b05-449e-9328-fab3dc9bd626"/>
