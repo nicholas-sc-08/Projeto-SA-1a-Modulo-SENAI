@@ -7,7 +7,7 @@ Este projeto veio do seguinte problema, normalmente os país na qual trabalham e
 
 ## 🖥 Como colocar em seu computador?
 
-Você ira clonar o link que aparece na seguinte opção,
+No meu repositório, você fará exatamente como a imagem abaixo explica, então copie o link que aparece.
 
 <img src="https://github.com/nicholas-sc-08/Projeto-SA-1a-Modulo-SENAI/blob/main/Imagens%20do%20README/git_clone_img.png" alt="GitHub Clone" width="500px" height="400px">
 
