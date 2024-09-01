@@ -50,16 +50,16 @@ Aqui estarão algumas páginas do site Baby Land, mostrando como são visualment
 
 ### 🏡 Página Inicial (Home):
 
-<img src="https://github.com/user-attachments/assets/dc28bdb7-0b05-449e-9328-fab3dc9bd626"/>
+<img src="https://github.com/nicholas-sc-08/Projeto-SA-1a-Modulo-SENAI/blob/main/Imagens%20do%20README/home_baby_land.png" alt="Tela Inicial (Home) Baby Land"/>
 
 ### 👤 Página de Login:
 
-<img src="https://github.com/user-attachments/assets/7c80ae85-3f62-4721-99fb-d9b1c95bfae0"/>
+<img src="https://github.com/nicholas-sc-08/Projeto-SA-1a-Modulo-SENAI/blob/main/Imagens%20do%20README/login_baby_land.png" alt="Tela de Login Baby Land"/>
 
 ### 👩‍🦰 Página de Edição de Perfil (Cuidador(a)):
 
-<img src="https://github.com/nicholas-sc-08/Projeto-SA-1a-Modulo-SENAI/blob/main/Imagens%20do%20README/editar_perfil_baby_land.png"/>
+<img src="https://github.com/nicholas-sc-08/Projeto-SA-1a-Modulo-SENAI/blob/main/Imagens%20do%20README/editar_perfil_baby_land.png" alt="Tela de Edição de Perfil (Cuidador(a) Baby Land"/>
 
 ### 📆 Página de Agendamento
-<img src="https://github.com/nicholas-sc-08/Projeto-SA-1a-Modulo-SENAI/blob/main/Imagens%20do%20README/agendamento_img.png" alt="Tela de Agendamento"/>
+<img src="https://github.com/nicholas-sc-08/Projeto-SA-1a-Modulo-SENAI/blob/main/Imagens%20do%20README/agendamento_img.png" alt="Tela de Agendamento Baby Land"/>
 
