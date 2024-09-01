@@ -20,7 +20,14 @@ Após você copiar o link que esta em https, você ira no prompt de commando, na
 
   cd "caminho_da_pasta"
 ```
+Então a pasta que você selecionou estara selecionada no prompt de commando.
 
+Feito isso você deve exercer o seguinta commando:
+
+```git
+
+  git clone "https_que_você_copiou_no_meu_github"
+```
 
 ## Web site na prática
 
