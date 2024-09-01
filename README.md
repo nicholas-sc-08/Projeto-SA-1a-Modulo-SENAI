@@ -40,7 +40,7 @@ Após você dar o git clone com o https que você copiou do repositório no GitH
 
 Entre no Visual Studio Code, então baixe a extensão <img src="https://pic.vsixhub.com/73/66/b63c44fd-0457-4696-99e9-dbfdf70d77de-logo.webp" alt="Live Server Icon" with="20px" height="20px"> Live Server . Você seguira como a imagem abaixo mostra.
 
-<img src="https://techstacker.com/static/b67ab1adeadeacd5164ee69e6cc07048/5e6b6/vscode-live-server-extension.png" alt="Live Server Tutorial" width="500px" height="400px">
+<img src="https://github.com/nicholas-sc-08/Projeto-SA-1a-Modulo-SENAI/blob/main/Imagens%20do%20README/live_server_img.png" alt="Live Server Tutorial" width="500px" height="400px">
 
 <br>
 
