@@ -9,7 +9,7 @@ Este projeto veio do seguinte problema, normalmente os país na qual trabalham e
 
 Você ira colnar o link que aparece na seguinte opção,
 
-<img src="https://docs.github.com/assets/cb-60499/images/help/repository/https-url-clone-cli.png" alt="GitHub Clone" width="400px" height="400px">
+<img src="https://github.com/nicholas-sc-08/Projeto-SA-1a-Modulo-SENAI/blob/main/Imagens%20do%20README/git_clone_img.png" alt="GitHub Clone" width="400px" height="400px">
 
 Após você copiar o link que esta em https, você ira no prompt de commando, na qual esta disponível para uso em todos os computadores. Enntão feito isso você deve escolher a pasta na qual você quer que estes arquivos irá se alocar, para isto basta você digitar o seguinte commando:
 
