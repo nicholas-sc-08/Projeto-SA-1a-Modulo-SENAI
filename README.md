@@ -58,7 +58,7 @@ Aqui estarão algumas páginas do site Baby Land, mostrando como são visualment
 
 ### 👩‍🦰 Página de Edição de Perfil (Cuidador(a)):
 
-<img src="https://github.com/user-attachments/assets/4f06195a-c4b0-49f8-87d8-8d2be5a7b2a9"/>
+<img src="https://github.com/nicholas-sc-08/Projeto-SA-1a-Modulo-SENAI/blob/main/Imagens%20do%20README/editar_perfil_baby_land.png"/>
 
 ### 📆 Página de Agendamento
 <img src="https://github.com/nicholas-sc-08/Projeto-SA-1a-Modulo-SENAI/blob/main/Imagens%20do%20README/agendamento_img.png" alt="Tela de Agendamento"/>
