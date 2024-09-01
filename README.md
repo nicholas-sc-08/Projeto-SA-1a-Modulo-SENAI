@@ -12,7 +12,7 @@ Este projeto veio do seguinte problema, normalmente os país na qual trabalham e
 
 Você ira colnar o link que aparece na seguinte opção,
 
-<img src="https://docs.github.com/assets/cb-60499/images/help/repository/https-url-clone-cli.png" alt="GitHub Clone" width="500px" height="100px">
+<img src="https://docs.github.com/assets/cb-60499/images/help/repository/https-url-clone-cli.png" alt="GitHub Clone" width="500px" height="500px">
 
 
 ## Web site na prática
