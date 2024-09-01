@@ -4,7 +4,6 @@ Seja muito bem-vindo(a) ao projeto de Stuação de Aprendizagem (SA) do SENAI. E
 
 Este projeto veio do seguinte problema, normalmente os país na qual trabalham excessivamente ou não possuem tempo para cuidar de seus pequeninos, então querem encontrar um lugar na qual achem cuidadores de alta qualidade, então o grupo na qual realizei esse projeto, desenvolvemos este site para ajudar e trazer isto como solução!
 
-##
 
 ## 🖥 Como colocar em seu computador?
 
