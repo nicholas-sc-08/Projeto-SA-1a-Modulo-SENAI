@@ -45,7 +45,7 @@ Entre no Visual Studio Code, então baixe a extensão <img src="https://pic.vsix
 
 ## 📖 Algumas páginas do WEB Site Baby Land
 
-### Página Inicial (Home)
+### 🏡 Página Inicial (Home)
 
 <img src="https://github.com/user-attachments/assets/dc28bdb7-0b05-449e-9328-fab3dc9bd626"/>
 
