@@ -43,7 +43,7 @@ Entre no Visual Studio Code, então baixe a extensão <img src="https://pic.vsix
 
 <img src="https://techstacker.com/static/b67ab1adeadeacd5164ee69e6cc07048/5e6b6/vscode-live-server-extension.png" alt="Live Server Tutorial" width="500px" height="400px">
 
-## Algumas páginas do WEB Site Baby Land
+## 📖 Algumas páginas do WEB Site Baby Land
 
 <img src="https://github.com/user-attachments/assets/dc28bdb7-0b05-449e-9328-fab3dc9bd626"/>
 
