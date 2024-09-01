@@ -14,7 +14,6 @@ Você ira colnar o link que aparece na seguinte opção,
 Após você copiar o link que esta em https, você ira no prompt de commando, na qual esta disponível para uso em todos os computadores. Enntão feito isso você deve escolher a pasta na qual você quer que estes arquivos irá se alocar, para isto basta você digitar o seguinte commando:
 
 ```git
-
   cd "caminho_da_pasta"
 ```
 Então a pasta que você selecionou estara selecionada no prompt de commando.
@@ -22,7 +21,6 @@ Então a pasta que você selecionou estara selecionada no prompt de commando.
 Feito isso você deve exercer o seguinta commando:
 
 ```git
-
   git clone "https_que_você_copiou_no_meu_github"
 ```
 
