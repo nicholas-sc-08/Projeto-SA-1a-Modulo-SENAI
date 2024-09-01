@@ -55,7 +55,7 @@ Entre no Visual Studio Code, então baixe a extensão <img src="https://pic.vsix
 
 <img src="https://github.com/user-attachments/assets/7c80ae85-3f62-4721-99fb-d9b1c95bfae0"/>
 
-
+### 👨 Página de Edição de Perfil (Responsável):
 
 <img src="(https://github.com/user-attachments/assets/6c55c046-63a5-4441-b46a-38316ac81ee3"/>
 
