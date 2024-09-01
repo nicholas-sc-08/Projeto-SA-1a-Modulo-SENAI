@@ -1,5 +1,20 @@
 # Projeto-SA-1a-Modulo-SENAI
 
+## Introdução
+
+Seja muito bem-vindo(a) ao projeto de Stuação de Aprendizagem (SA) do SENAI. Este projeto foi em grupo de 4-5 pessoas, sendo distribuido em partes o que cada um deve fazer. A minha parte foi mais JS e um pouco de HTML & CSS, sendo editar perfil, cuidadores/responsáveis, Política de Privacidade & Termos e Condições.
+
+Este projeto veio do seguinte problema, normalmente os país na qual trabalham excessivamente ou não possuem tempo para cuidar de seus pequeninos, então querem encontrar um lugar na qual achem cuidadores de alta qualidade, então o grupo na qual realizei esse projeto, desenvolvemos este site para ajudar e trazer isto como solução!
+
+##
+
+## Como colocar em seu computador?
+
+Você ira colnar o link que aparece na seguinte opção,
+
+<img src="https://docs.github.com/assets/cb-60499/images/help/repository/https-url-clone-cli.png" alt="GitHub Clone">
+
+
 ## Web site na prática
 
 <img src="https://github.com/user-attachments/assets/dc28bdb7-0b05-449e-9328-fab3dc9bd626"/>
