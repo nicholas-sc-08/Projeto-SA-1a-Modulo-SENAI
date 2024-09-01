@@ -35,6 +35,8 @@ Feito isso você deve exercer o seguinta commando:
 
 Após você dar o git clone com o https que você copiou do repositório no GitHub, a pasta de arquivos com os projetos devem aparecer na pasta selecionada. Feito isso, para ativá-lo, basta dar 2 clickes em um dos arquivos em html.
 
+##
+
 ### Método 2:
 
 Entre no Visual Studio Code, então baixe a extensão <img src="https://pic.vsixhub.com/73/66/b63c44fd-0457-4696-99e9-dbfdf70d77de-logo.webp" alt="Live Server Icon" with="20px" height="20px"> Live Server . Você seguira como a imagem abaixo mostra.
