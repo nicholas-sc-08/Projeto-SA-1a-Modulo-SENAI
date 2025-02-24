@@ -2,7 +2,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
+ 
 ## 🔊 Introdução
 
 Seja muito bem-vindo(a) ao projeto de Stuação de Aprendizagem (SA) do SENAI do 1º Módulo! Este projeto foi em grupo de 4-5 pessoas, sendo distribuido em partes o que cada um deve fazer. A minha parte foi mais JS e um pouco de HTML & CSS, sendo editar perfil, cuidadores/responsáveis, Política de Privacidade & Termos e Condições.
